@@ -11,6 +11,6 @@ National College of Ireland, built with Python, Flask and SQLite3.
 
 ## Branches
 
-- Main — shared project files and configuration manual.
-- Secure — the helpdesk implementation with security controls.
-- Insecure — the comparison implementation used in the assessment.
+- Main: shared project files and configuration manual.
+- Secure: the helpdesk implementation with security controls.
+- Insecure: the comparison implementation used in the assessment.
